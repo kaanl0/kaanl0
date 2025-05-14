@@ -1,5 +1,5 @@
-Ben Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Web geliştirme, veri bilimi, oyun programlama 
-gibi alanlarla ilgileniyorum.İletişim yönü güçlü, takım çalışmasına yatkın ve öğrenmeye açık, bir
+Ben Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Web geliştirme, veri bilimi, oyun programlama, 
+görsel programlama gibi alanlarla ilgileniyorum.İletişim yönü güçlü, takım çalışmasına yatkın ve öğrenmeye açık, bir
 kişiliğe sahibim. 
 Yeni teknolojilere meraklıyım ve kendimi sürekli geliştirmeyi seviyorum. 
 
